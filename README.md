@@ -1,4 +1,6 @@
+<div>
 ![beach](https://cdn.wallpapersafari.com/8/86/dMuhLi.gif)
+  </div>
 
 ![LindedIn](https://tse4.mm.bing.net/th?id=OIP.DgVNhFcvWWSCxJpVWsry4wHaHV&pid=Api&P=0)[LINKEDIN](https://www.linkedin.com/in/sandrasmithdev1548/)
 ![GMAIL](http://logos-download.com/wp-content/uploads/2016/05/Gmail_logo_icon.png)[GMAIL](sls2code2@gmail.com)
