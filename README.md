@@ -64,7 +64,7 @@
 
 - 🌱 I have utilized this, or I am very familiar with this app  ...
 
-- <img src="https://github.com/slsmi894/slsmi894/assets/83996619/c3ef027e-2778-46f2-a574-9aed7e5e6e3e" alt="codinglanguage" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/c3ef027e-2778-46f2-a574-9aed7e5e6e3e" alt="codinglanguage" width="50" height="50">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="codinglanguage" width="50" height="50">
 
