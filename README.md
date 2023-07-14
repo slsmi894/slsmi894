@@ -22,7 +22,7 @@
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/c3ef027e-2778-46f2-a574-9aed7e5e6e3e" alt="codinglanguage" width="50" height="50">
 
-**slsmi894/slsmi894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 <--
