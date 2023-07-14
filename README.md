@@ -14,8 +14,6 @@
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/be1feddc-89c5-4b04-b324-03f2339d7807" alt="codinglanguage" width="50" height="50">
 
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="codinglanguage" width="50" height="50">
-
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/da8f1a38-af8f-4467-8a6f-6794e440ddaa" alt="codinglanguage" width="50" height="50">
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/a9ca2246-be97-4bc5-a7ca-96b04155bce4" alt="codinglanguage" width="50" height="50">
