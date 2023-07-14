@@ -1,6 +1,7 @@
 
 ## Hi, I'm Sandy 👋 👩🏾‍💻
-![femalecodertocat](https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994/w-150) 
+<img src="assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200">
+<!-- ![femalecodertocat](https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994/w-150)  -->
 
 ### 📫 How to reach me 🌎 ...:
 - Send an email [slsc2code@gmail.com](sls2code@gmail.com)
