@@ -66,8 +66,6 @@
 
 <img src=https://github.com/slsmi894/slsmi894/assets/83996619/686002a0-6438-4273-ae78-75e4a14c7dd1" width="50" height="50">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="codinglanguage" width="50" height="50">
-
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/ff29c088-e591-4b1d-84f2-3d1be280d6eb" width="50" height="50">
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/4c541c34-16bd-4010-bad2-9c3f786c2c4c" width="50" height="50">
