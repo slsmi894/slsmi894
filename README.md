@@ -54,7 +54,9 @@
 
 
 ### 📫 How to reach me 🌎 ...:  
-- Send an email [sls2code@gmail.com](sls2code@gmail.com) <img src="http://31.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_1280.gif" alt="guardiams of the galaxy gamora" width="200" height="200">
+
+- Send an email [sls2code@gmail.com](sls2code@gmail.com)
+<img src="http://31.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_1280.gif" alt="guardiams of the galaxy gamora" width="200" height="200">
 
 - Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
 
