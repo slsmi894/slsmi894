@@ -15,7 +15,8 @@
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/da8f1a38-af8f-4467-8a6f-6794e440ddaa" alt="codinglanguage" width="50" height="50">
 
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/a9ca2246-be97-4bc5-a7ca-96b04155bce4" alt="codinglanguage" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/95c5e5f0-12a6-4a15-9db2-b406137186f2" alt="codinglanguage" width="50" height="50">![bash-plain]()
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="codinglanguage" width="50" height="50">
 
