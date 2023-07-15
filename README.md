@@ -18,7 +18,8 @@
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/95c5e5f0-12a6-4a15-9db2-b406137186f2" alt="codinglanguage" width="50" height="50">![bash-plain]()
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="codinglanguage" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/708a1132-2c87-4283-a62a-1a1884cae70" width="50" height="50">
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="codinglanguage" width="50" height="50">
 
