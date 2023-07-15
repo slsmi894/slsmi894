@@ -1,13 +1,6 @@
 
 ## Hi, I'm Sandy 👋 👩🏾‍💻
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200">
-
-<img src="http://31.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_1280.gif" alt="guardiams of the galaxy gamora" width="200" height="200">
-
-### 📫 How to reach me 🌎 ...:
-- Send an email [sls2code@gmail.com](sls2code@gmail.com)
-- Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
-
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200"> 
 ### My Tech Stack:
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/f996c96c-1346-42fc-a0dd-5ec21b26ebd0" alt="codinglanguage" width="50" height="50">
 
@@ -54,6 +47,15 @@
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/ff29c088-e591-4b1d-84f2-3d1be280d6eb" width="50" height="50">
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/4c541c34-16bd-4010-bad2-9c3f786c2c4c" width="50" height="50">
+
+
+
+
+### 📫 How to reach me 🌎 ...:  <img src="http://31.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_1280.gif" alt="guardiams of the galaxy gamora" width="200" height="200">
+- Send an email [sls2code@gmail.com](sls2code@gmail.com)
+- Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
+
+
 
 
 
