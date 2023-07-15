@@ -2,6 +2,8 @@
 ## Hi, I'm Sandy 👋 👩🏾‍💻
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200">
 
+<img src="http://31.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_1280.gif" alt="guardiams of the galaxy gamora" width="200" height="200">
+
 ### 📫 How to reach me 🌎 ...:
 - Send an email [sls2code@gmail.com](sls2code@gmail.com)
 - Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
