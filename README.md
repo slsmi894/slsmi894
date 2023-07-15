@@ -64,7 +64,7 @@
 
 
 
-- 🌱 I have utilized this, or I am very familiar with this app  ...
+- 🌱 I have utilized this, or I am very familiar with these apps and more  ...
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/beef676e-2a9c-454c-a196-1b2be8ffbf34" alt="codinglanguage" width="50" height="50">
 
