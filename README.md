@@ -55,7 +55,7 @@
 
 ### 📫 How to reach me 🌎 ...:  
 
-<img src="https://media.giphy.com/media/14b13BDH3V81wc/giphy.gif" alt="guardiams of the galaxy I am grut" width="200" height="200">
+<img src="https://media.giphy.com/media/uGrtQn6f686f6/giphy.gif" alt="guardiams of the galaxy I am groot" width="200" height="200">
 
 - Send an email [sls2code@gmail.com](sls2code@gmail.com)
 
