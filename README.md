@@ -58,8 +58,9 @@
   <img src="https://media.giphy.com/media/uGrtQn6f686f6/giphy.gif" alt="guardiams of the galaxy      I am groot" width="200" height="200" borderRadius="50px">
   <div>
   - Send an email [sls2code@gmail.com](sls2code@gmail.com)
-
+    
   - Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
+    
   </div>
 </div>
 
