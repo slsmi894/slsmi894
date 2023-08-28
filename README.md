@@ -9,6 +9,8 @@ Hi, I'm Sandy 👋 👩🏾‍💻
 
 </br>
 
+<div>
+
  My Tech Stack:
 
  <div>
@@ -65,15 +67,19 @@ Hi, I'm Sandy 👋 👩🏾‍💻
 
 </div>
 
-</p>
+</div>
 
+</div>
 
+<div>
 
 ### 📫 How to reach me 🌎 ...:  
 
-<div>
+
   
   <img src="http://38.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_500.gif" alt="guardiams of the galaxy" width="200" height="200" borderRadius="50px">
+
+  </div>
   
   <div>
     
@@ -82,7 +88,7 @@ Hi, I'm Sandy 👋 👩🏾‍💻
   - Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
     
   </div>
-</div>
+
 
 
 
