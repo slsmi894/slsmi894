@@ -1,4 +1,5 @@
   <img src="https://media.giphy.com/media/nNsCDsbQATjgc/200.gif" alt="surfer" width="100%" height="300" borderRadius="50px"> 
+  
 # Hi, I'm Sandy 👋 👩🏾‍💻 
 
 
