@@ -9,7 +9,7 @@ Hi, I'm Sandy 👋 👩🏾‍💻
 
 </br>
 
-<div>
+<div {: style:"align: center" } >
 
  My Tech Stack:
 
