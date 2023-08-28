@@ -3,7 +3,7 @@
 
  
 
-<p {style="background-color: blue;"}>
+<p {style="background-color: #A9A9A9;"}>
 
 
 ## My Tech Stack:
