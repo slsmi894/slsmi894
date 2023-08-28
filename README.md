@@ -1,9 +1,9 @@
 <div style="display:flex; flex-direction:row; justify-content: space-between;" width="100%">
-<div>
+<div width="30%">
 ## Hi, I'm Sandy 👋 👩🏾‍💻
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200"> 
 </div>
-<div>  
+<div width="65%">  
 ### My Tech Stack:
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/f996c96c-1346-42fc-a0dd-5ec21b26ebd0" alt="codinglanguage" width="25" height="25">
