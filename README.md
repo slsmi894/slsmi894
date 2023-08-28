@@ -1,5 +1,5 @@
 
-<div align:'left' {: style="display: flex" }>
+<div align:'left'>
  <div>
 Hi, I'm Sandy 👋 👩🏾‍💻
  
