@@ -1,3 +1,5 @@
+  <img src="https://media.giphy.com/media/nNsCDsbQATjgc/200.gif" alt="surfer" width="100%" height="300" borderRadius="50px"> 
+
 <div {: style="display: flex;" }>
 
 # Hi, I'm Sandy 👋 👩🏾‍💻  <img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="400" height="400"> 
@@ -64,10 +66,7 @@
 </div>
  
 ### 📫 How to reach me 🌎 ...:  Send an email [1548sandysmith@gmail.com](1548sandysmith@gmail.com)  Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
-
-
-  <img src="https://media.giphy.com/media/nNsCDsbQATjgc/200.gif" alt="surfer" width="100%" height="300" borderRadius="50px"> 
-    
+ 
 
 🌱 I have utilized this, or I am very familiar with these apps and more  ..
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/beef676e-2a9c-454c-a196-1b2be8ffbf34" alt="codinglanguage" width="15" height="15">
