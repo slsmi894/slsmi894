@@ -2,11 +2,11 @@
 
 
  
-Hi, I'm Sandy 👋 👩🏾‍💻
+# Hi, I'm Sandy 👋 👩🏾‍💻
  
 
 
- My Tech Stack:
+## My Tech Stack:
 
 
 
