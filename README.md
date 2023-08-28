@@ -1,8 +1,8 @@
-<div style="display: flex">
-<div style="display: flex">
+
+<p align:'left'>
 Hi, I'm Sandy 👋 👩🏾‍💻
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200"> 
-</div>
+</p>
 <p align:'right'>  
  My Tech Stack:
 
@@ -52,7 +52,7 @@ Hi, I'm Sandy 👋 👩🏾‍💻
 
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/4c541c34-16bd-4010-bad2-9c3f786c2c4c" width="25" height="25">
 </p>
-</div>
+
 
 
 ### 📫 How to reach me 🌎 ...:  
