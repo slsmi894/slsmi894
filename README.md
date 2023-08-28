@@ -1,11 +1,4 @@
-<style>
- .flexStyle {
-  display: flex;
- }
-</style>
-
-
-<div width="100%" class="flexStyle">
+<div width="100%" style="display: flex;">
 <div width="30%" class="flexStyle">
 Hi, I'm Sandy 👋 👩🏾‍💻
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/1f446ca1-b5b4-4cc9-a8f4-8abb0e1bc994" alt="femalecodertocat" width="200" height="200"> 
