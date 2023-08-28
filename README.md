@@ -3,7 +3,7 @@
 
  
 
-<p style={background-color: coral;}>
+<p {style="background-color: blue;"}>
 
 
 ## My Tech Stack:
