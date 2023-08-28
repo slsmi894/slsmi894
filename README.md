@@ -63,10 +63,10 @@
 
 </div>
  
-### 📫 How to reach me 🌎 ...:  
+### 📫 How to reach me 🌎 ...:  Send an email [1548sandysmith@gmail.com](1548sandysmith@gmail.com)  Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
 
 
-  <img src="https://media.giphy.com/media/nNsCDsbQATjgc/200.gif" alt="surfer" width="400" height="200" borderRadius="50px"> Send an email [1548sandysmith@gmail.com](1548sandysmith@gmail.com)  Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
+  <img src="https://media.giphy.com/media/nNsCDsbQATjgc/200.gif" alt="surfer" height="300" borderRadius="50px"> 
     
 
 🌱 I have utilized this, or I am very familiar with these apps and more  ..
