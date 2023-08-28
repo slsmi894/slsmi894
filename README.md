@@ -65,23 +65,8 @@
 ### 📫 How to reach me 🌎 ...:  
 
 
-  
-  <img src="http://38.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_500.gif" alt="guardiams of the galaxy" width="200" height="200" borderRadius="50px">
-
-
+  <img src="http://38.media.tumblr.com/e50a6888e95783b4ffc678e67890562d/tumblr_naqiaaaNht1qjulcao4_500.gif" alt="guardiams of the galaxy" width="200" height="200" borderRadius="50px"> Send an email [1548sandysmith@gmail.com](1548sandysmith@gmail.com)  Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
     
-  - Send an email [sls2code@gmail.com](sls2code@gmail.com)
-    
-  - Sharing info on [LinkedIn](https://www.linkedin.com/in/sandrasmithdev1548/)
-    
-
-
-
-
-
-
-
-
 
 🌱 I have utilized this, or I am very familiar with these apps and more  ..
 <img src="https://github.com/slsmi894/slsmi894/assets/83996619/beef676e-2a9c-454c-a196-1b2be8ffbf34" alt="codinglanguage" width="15" height="15">
