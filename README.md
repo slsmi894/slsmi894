@@ -85,13 +85,13 @@
 
 🌱 I have utilized this, or I am very familiar with these apps and more  ...
 
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/beef676e-2a9c-454c-a196-1b2be8ffbf34" alt="codinglanguage" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/beef676e-2a9c-454c-a196-1b2be8ffbf34" alt="codinglanguage" width="15" height="15">
 
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/2ec8f1d6-4375-44d0-b8d5-a731b3b4bf75" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/2ec8f1d6-4375-44d0-b8d5-a731b3b4bf75" width="15" height="15">
 
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/d5d307c2-8cbe-4e2f-8b23-79353b7b3b8d" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/d5d307c2-8cbe-4e2f-8b23-79353b7b3b8d" width="15" height="15">
 
-<img src="https://github.com/slsmi894/slsmi894/assets/83996619/249a19a0-9a48-4750-b313-972ed1fff71e" width="50" height="50">
+<img src="https://github.com/slsmi894/slsmi894/assets/83996619/249a19a0-9a48-4750-b313-972ed1fff71e" width="15" height="15">
 
 
 
